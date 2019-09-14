@@ -1,0 +1,6 @@
+ --(Mines)Ore--> Mine --(ShipOresTo)Ore--> Factory --(ProcExec)--> (Output) --(Ship)Ti--> Order
+
+Analysis_Factory: how many ores (converted 1:1 to Ti) are shipped in and how many are used in process
+Analysis_MachineEfficiency: how many ores used and how many Ti produced
+Analysis_Sales: how many moles of Ti produced and how many are sold
+

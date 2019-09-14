@@ -1,0 +1,20 @@
+1.Mine --> 2.Mines -|
+                    |-->4. ShipOresTo 
+3.Factory ----|-----|---------------------------------------|
+              |-->5. Machine --> 6. ProcExec --> 7. UsedIn  |-->9. ShippedTo
+8.Order-----------------------------------------------------|
+
+Generator Sections:
+Mine
+Mines
+Factory
+ShipOresTo
+Machine
+ProcessExecution
+UsedIn
+Order
+ShippedTo
+Login
+MineSupervisor
+FactorySupervisor
+MachineOperator
